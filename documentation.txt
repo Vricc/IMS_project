@@ -1,0 +1,26 @@
+#Overview
+	For our MIS capstone, Team 2 decided to create a system for a restaurant to help manage data from their profit and inventory. The goal of the project is to create a simple system to assist small business administrators and 	employees.
+
+#Implementation
+	Developed using Python, SQL Server, XXX, XXX, XXX.
+	The project requires 2 accounts, 1 for the kitchen manager, 1 for the owner. Accounts will have different permissions accordingly.
+
+#Data Base Design
+	Login = 3 attributes
+	username, password, and account type.
+
+	Ingredients = 6 attributes
+	sku, name, description, category, price, stock
+
+	Products = 5 attributes
+	product, name, description, category, price
+
+	Sales = 6 attributes
+	Tid, invoice, product,  qty, date, time
+
+#Run Program
+	To run, you have to run XXX on XXX.
+
+#Login Screen
+
+#Admin Account Manual
